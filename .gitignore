@@ -3,3 +3,6 @@
 *.pyc
 test.py
 tester.py
+
+# Pycharm
+.idea
